@@ -1,5 +1,3 @@
-# selim.github.io
-
 <!DOCTYPE html>
 <html lang="az">
 <head>
