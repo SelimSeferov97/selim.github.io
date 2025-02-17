@@ -1,2 +1,2 @@
 # selim.github.io
-print("Xos gelmisiniz")
+# print("Xos gelmisiniz")
